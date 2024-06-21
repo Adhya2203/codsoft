@@ -263,7 +263,7 @@ section{
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    margin-top: 20px; /* Adjust margin as needed */
+    margin-top: 20px; 
 }
 
 .contact-form .btn-submit:hover {
